@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_done">Done</string>
+    <string name="fab_description">Add</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Your story…</string>
+    <string name="error_title_empty">Title is empty!</string>
+    <string name="error_description_empty">Description is empty!</string>
+    <string name="action_undo">Undo</string>
+    <string name="message_inserted">Todo has added</string>
+    <string name="message_updated">Todo has updated</string>
+    <string name="message_removed">Todo has removed</string>
+    <string name="list_empty">List is empty</string>
+    <string name="todo_date_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+</resources>

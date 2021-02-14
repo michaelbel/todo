@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_done">Сохранить</string>
+    <string name="fab_description">Добавить</string>
+    <string name="add_todo">Создать заметку</string>
+    <string name="edit_todo">Редактировать заметку</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="hint_description">Ваша заметка…</string>
+    <string name="error_title_empty">Заголовок не заполнен!</string>
+    <string name="error_description_empty">Заметка не заполнена!</string>
+    <string name="action_undo">Отменить</string>
+    <string name="message_inserted">Заметка была добавлена</string>
+    <string name="message_updated">Заметка была обновлена</string>
+    <string name="message_removed">Заметка была удалена</string>
+    <string name="list_empty">Список пуст</string>
+    <string name="todo_date_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_medium">Средний</string>
+    <string name="priority_high">Высокий</string>
+</resources>
